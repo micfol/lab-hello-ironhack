@@ -1,0 +1,15 @@
+.Navbar {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(13, 17, 51);
+    padding-top: 2%;
+}
+
+.NavbarLeft {
+    padding-left: 5%;
+}
+
+.NavbarRight {
+    padding-right: 5%;
+}
+

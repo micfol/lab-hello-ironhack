@@ -1,5 +1,51 @@
 .App {
-  text-align: center;
+  text-align: left;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+.Components {
+  max-width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-left: 
+}
+
+
+.LandingDiv {
+  padding-top: 5%;
+  padding-bottom: 5%;
+  min-width: 100%;
+  background-color: rgb(13, 17, 51);
+  color: rgba(255, 255, 255, 0.897);
+}
+
+.ParagraphText {
+  max-width: 70%;
+  padding-bottom: 8%;
+  font-size: 20px;
+  letter-spacing: 1px;
+}
+
+.LandingText {
+  margin-left: 10%;
+  margin-bottom: 2%;
+}
+
+.HeaderText {
+  padding-top: 3%;
+  font-size: 4.5em;
+  font-weight: 700;
+}
+
+.btn {
+  width: 130px;
+  height: 50px;
+}
+
+.EmptyDiv {
+  min-width: 50%;
 }
 
 .App-logo {
